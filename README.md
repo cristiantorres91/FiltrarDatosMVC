@@ -1,6 +1,6 @@
-# Filtrar DatosMVC
+# Filtrar Datos MVC
 http://cristiantorresalfaro.blogspot.com/2019/07/filtrar-datos-mvc.html
-Filtrar Datos en MVC 
+
 <div style="text-align: justify;">
 <span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><span style="background-color: white; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">En esta ocasión&nbsp;veremos la manera de como filtrar datos(DropDowlist) en una aplicación&nbsp;mvc de asp.net y como recuperar un valor por medio de ajax dependiendo del valor seleccionado.</span></span></div>
 <br />
